@@ -50,7 +50,3 @@ An interactive Power BI dashboard built using the **Global Superstore 2016** dat
 ## 🤝 Let's Connect
 
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or [GitHub Issues](https://github.com/) for feedback or collaborations.
-
----
-
-© 2025 Telidevara Mahalakshmi – All Rights Reserved.
