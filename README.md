@@ -1,3 +1,5 @@
+# 📊 POWERBI-Superstore-Dashboard
+An interactive Power BI dashboard built using the **Global Superstore 2016** dataset (Orders sheet). This project provides actionable insights into sales, profit, quantity, and trends across various dimensions like region, category, and time.
 
 ## 📌 Key Features
 
@@ -18,14 +20,16 @@
 
 ## 🖼️ Sample Screenshots
 
+## 🖼️ Sample Screenshots
+
 ### 📌 Sales Dashboard
-![Sales Dashboard](Screenshots/Screenshot 2025-07-27 192953.png)
+![Sales Dashboard](Screenshots/Sales_Dashboard.png)
 
 ### 🧾 State Level Analysis
-![State Level Analysis](Screenshots/Screenshot 2025-07-27 193012.png)
+![State Level Analysis](Screenshots/State_Level_Analysis.png)
 
 ### 📂 Category & Sub-Category Analysis
-![Category and Sub-Category Analysis](Screenshots/Screenshot 2025-07-27 193029.png)
+![Category and Sub-Category Analysis](Screenshots/Category_Subcategory_Analysis.png)
 
 ## 💻 Tools Used
 
